@@ -10,7 +10,7 @@ public class Zoo {
 
     public static void main(String[] args) {
 
-        ArrayList<Animal> animals = new ArrayList<Animal>();
+        ArrayList<Animal> animals = new ArrayList();
         System.out.println("Zoo is open");
 
         for (int i = 0; i < 3; i++) {
